@@ -30,7 +30,7 @@ Insert Tabel Kabupaten:
 <br/>
 <br/>
 Show Data Tabel Provinsi:
-![pictures](4/A/show_provinsi.png)
+![pictures](4/A/show-provinsi.png)
 <br/>
 <br/>
 Show Data Tabel Kabupaten:
